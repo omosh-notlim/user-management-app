@@ -1,0 +1,4 @@
+.usermanvenv/
+main/__pycache__/
+user_management/__pycache__/
+.env

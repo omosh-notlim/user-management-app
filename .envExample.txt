@@ -1,0 +1,12 @@
+SECRET_KEY='your-secret-key'
+
+
+DATABASE_NAME=your_database_name
+DATABASE_USER=postgres_user
+DATABASE_PASSWORD=your_postgres_password
+
+# adjust as required
+DATABASE_HOST=localhost 
+
+# adjust as required
+DATABASE_PORT=5432
